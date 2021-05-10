@@ -109,6 +109,7 @@ p a{
 }
 
 p a:hover {
+    font-size: 30px;
     animation-name: Enxurrada;
     animation-duration: 4s;
     animation-iteration-count: infinite;
@@ -230,3 +231,4 @@ p a:hover {
 {
     animation-delay: 1.3s;
 }
+
